@@ -1,2 +1,2 @@
-# kaggle_training
+# Kaggle Training
 Kaggle training and playground examples
